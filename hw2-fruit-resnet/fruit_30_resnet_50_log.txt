@@ -1,0 +1,10 @@
+06/11 12:24:33 - mmengine - INFO - Exp name: fruit_30_resnet_50_20230611_121816
+06/11 12:24:39 - mmengine - INFO - Epoch(train) [19][100/109]  lr: 1.0000e-02  eta: 0:00:12  time: 0.0983  data_time: 0.0004  memory: 2964  loss: 0.2848
+06/11 12:24:40 - mmengine - INFO - Exp name: fruit_30_resnet_50_20230611_121816
+06/11 12:24:40 - mmengine - INFO - Saving checkpoint at 19 epochs
+06/11 12:24:46 - mmengine - INFO - Epoch(val) [19][28/28]    accuracy/top1: 86.8243  accuracy/top5: 98.0856  data_time: 0.0924  time: 0.1250
+06/11 12:24:56 - mmengine - INFO - Epoch(train) [20][100/109]  lr: 1.0000e-02  eta: 0:00:00  time: 0.0988  data_time: 0.0007  memory: 2964  loss: 0.3470
+06/11 12:24:57 - mmengine - INFO - Exp name: fruit_30_resnet_50_20230611_121816
+06/11 12:24:57 - mmengine - INFO - Saving checkpoint at 20 epochs
+06/11 12:25:01 - mmengine - INFO - Epoch(val) [20][28/28]    accuracy/top1: 88.2883  accuracy/top5: 98.0856  data_time: 0.0405  time: 0.0727
+Training finished successfully. 
