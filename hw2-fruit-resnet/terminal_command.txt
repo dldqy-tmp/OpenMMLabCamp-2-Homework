@@ -1,0 +1,1 @@
+mim train mmpretrain fruit_30_resnet_50.py --work-dir=./result
